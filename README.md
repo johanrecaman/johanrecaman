@@ -6,7 +6,6 @@
 </div>
   
 <div style="display: inline_block"><br>
- <h2>𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴:</h2>
    <img align="center" alt="Logzin-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Logzin-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Logzin-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
