@@ -1,4 +1,4 @@
-### Opa, tudo certinho?🔥
+### It All Starts Here
  <div>
   <a href="https://github.com/logzin">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=johanrecaman&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
