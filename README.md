@@ -1,8 +1,8 @@
 ### Opa, tudo certinho?🔥
  <div>
   <a href="https://github.com/logzin">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=johanrecaman&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johanrecaman&layout=compact&langs_count=7&theme=cobalt"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=johanrecaman&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johanrecaman&layout=compact&langs_count=7&theme=tokyonight"/>
 <div style="display: inline_block"><br>
  <img align="center" alt="Logzin-Ruby" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg">
  <img align="center" alt="Logzin-javascrip" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
