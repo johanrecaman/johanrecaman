@@ -13,7 +13,6 @@ Computer Science Student, aiming to full-stack development
   <img align="center" alt="Logzin-Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
 </div>
     
-  ##
  
   <div>
    <h2>𝗦𝗼𝗰𝗶𝗮𝗹 𝗠𝗲𝗱𝗶𝗮:</h2>
